@@ -252,12 +252,14 @@ export default {
           "自动判断客户端": "auto",
         },
         customBackend: {
-          "jay1994.cf(自用)": "https://sub.jay1994.cf/sub?",
-          "sub-beta.vercel.app": "https://sub-beta.vercel.app/sub?",
+          "jay1994.tk(自用)": "https://sub.jay1994.tk/sub?",
+          "sub-beta.vercel.app（备选）": "https://sub-beta.vercel.app/sub?",
+	  "jay1994.cf(备用)": "https://sub.jay1994.tk/sub?",
         },
         backendOptions: [
-          { value: "https://sub.jay1994.cf/sub?" },
+          { value: "https://sub.jay1994.tk/sub?" },
           { value: "https://sub-beta.vercel.app/sub?" },
+	  { value: "https://sub.jay1994.cf/sub?" },
         ],
         remoteConfig: [
           {
