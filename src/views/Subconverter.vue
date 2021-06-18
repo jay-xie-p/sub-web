@@ -252,7 +252,7 @@ export default {
           "自动判断客户端": "auto",
         },
         customBackend: {
-          "jay1994.tk(自用)": "https://sub.jay1994.cf/sub?",
+          "jay1994.cf(自用)": "https://sub.jay1994.cf/sub?",
           "sub-beta.vercel.app": "https://sub-beta.vercel.app/sub?",
         },
         backendOptions: [
