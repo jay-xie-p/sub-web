@@ -253,12 +253,12 @@ export default {
         },
         customBackend: {
           "jay1994.tk(自用)": "https://sub.jay1994.tk/sub?",
-          "sub-beta.vercel.app（备选）": "https://sub-beta.vercel.app/sub?",
-          "jay1994.tk(备用)": "https://sub.jay1994.cf/sub?",
+          "sub-beta.vercel.app(备选)": "https://sub-beta.vercel.app/sub?",
+          "jay1994.cf(备选)": "https://sub.jay1994.cf/sub?",
         },
         backendOptions: [
           { value: "https://sub.jay1994.tk/sub?" },
-          { value: "https://sub-beta.vercel.app/sub?" },
+          { value: "https://sub-beta.now.sh/sub?" },
           { value: "https://sub.jay1994.cf/sub?" },
         ],
         remoteConfig: [
