@@ -258,7 +258,7 @@ export default {
         },
         backendOptions: [
           { value: "https://sub.jay1994.tk/sub?" },
-          { value: "https://sub-beta.now.sh/sub?" },
+          { value: "https://sub-beta.vercel.app/sub?" },
           { value: "https://sub.jay1994.cf/sub?" },
         ],
         remoteConfig: [
