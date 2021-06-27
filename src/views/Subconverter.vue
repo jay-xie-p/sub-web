@@ -252,13 +252,13 @@ export default {
           "自动判断客户端": "auto",
         },
         customBackend: {
-          "jay1994.tk(自用)": "https://sub.jay1994.tk/sub?",
-          "jay-virid.vercel.app(备选)": "https://jay-virid.vercel.app/sub?",
+          "vercel.app(自用)": "https://jay-virid.vercel.app/sub?",
+          "jay1994.tk(备选)": "https://sub.jay1994.tk/sub?",
           "jay1994.cf(备选)": "https://sub.jay1994.cf/sub?",
         },
         backendOptions: [
-          { value: "https://sub.jay1994.tk/sub?" },
           { value: "https://jay-virid.vercel.app/sub?" },
+          { value: "https://sub.jay1994.tk/sub?" },
           { value: "https://sub.jay1994.cf/sub?" },
         ],
         remoteConfig: [
