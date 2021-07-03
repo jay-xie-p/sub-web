@@ -266,7 +266,6 @@ export default {
           { value: "https://api.wcc.best/sub?" },
           { value: "https://sub.jay1994.tk/sub?" },
           { value: "https://sub.jay1994.cf/sub?" },
-
         ],
         remoteConfig: [
           {
