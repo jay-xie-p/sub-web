@@ -253,17 +253,17 @@ export default {
         },
         customBackend: {
           "vercel.app(自用)": "https://jay-virid.vercel.app/sub?",
-	  "subcon.dlj.tf(subconverter作者提供-稳定)": "https://subcon.dlj.tf/sub?",
-	  "api.dler.io(sub作者&lhie1提供-稳定)": "https://api.dler.io/sub?",
-	  "api.wcc.best(sub-web作者提供-稳定)": "https://api.wcc.best/sub?",
+          "subcon.dlj.tf(subconverter作者提供-稳定)": "https://subcon.dlj.tf/sub?",
+          "api.dler.io(sub作者&lhie1提供-稳定)": "https://api.dler.io/sub?",
+          "api.wcc.best(sub-web作者提供-稳定)": "https://api.wcc.best/sub?",
           "jay1994.tk(备选)": "https://sub.jay1994.tk/sub?",
           "jay1994.cf(备选)": "https://sub.jay1994.cf/sub?",
         },
         backendOptions: [
           { value: "https://jay-virid.vercel.app/sub?" },
-	  { value: "https://subcon.dlj.tf/sub?" },
-	  { value: "https://api.dler.io/sub?" },
-	  { value: "https://api.wcc.best/sub?" },
+          { value: "https://subcon.dlj.tf/sub?" },
+          { value: "https://api.dler.io/sub?" },
+          { value: "https://api.wcc.best/sub?" },
           { value: "https://sub.jay1994.tk/sub?" },
           { value: "https://sub.jay1994.cf/sub?" },
 
